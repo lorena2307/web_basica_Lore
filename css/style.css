@@ -1,0 +1,22 @@
+#Cont1
+{
+  width: 1200px;
+
+}
+*
+{
+  background-color: RGB(128, 128, 128);
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+
+}
+img
+{
+  width: 550px;
+  height: 450px;
+}
+h1
+{
+  color: RGB(100,100, 0);
+}
